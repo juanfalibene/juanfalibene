@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanfalibene
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React & React Native
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on StartUps Projects, New Products & Side Projects
 - 📫 You can reach me on juanfalibene.com
 
